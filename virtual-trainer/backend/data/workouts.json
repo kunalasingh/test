@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Cardio",
+      "duration": 30,
+      "difficulty": "easy",
+      "description": "abcdefghijk"
+
+    },
+    {
+      "id": 2,
+      "title": "Running",
+      "duration": 20,
+      "difficulty": "moderate",
+      "description": "abcdefghijk"
+    },
+    {
+      "id": 3,
+      "title": "Power Training",
+      "duration": 60,
+      "difficulty": "hard",
+      "description": "abcdefghijk"
+    },
+    {
+      "id": 4,
+      "title": "Swimming",
+      "duration": 30,
+      "difficulty": "easy",
+      "description": "abcdefghijk"
+    }
+  ]

@@ -1,0 +1,88 @@
+------------------------------------------------------1623741250236
+      {
+  _id: 60c852dda63e62076458e1cb,
+  title: 'Cardio',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1cc,
+  title: 'Running',
+  duration: 20,
+  difficulty: 'moderate',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1cd,
+  title: 'Power Training',
+  duration: 60,
+  difficulty: 'hard',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1ce,
+  title: 'Swimming',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+}------------------------------------------------------1623741271968
+      {
+  _id: 60c852dda63e62076458e1cb,
+  title: 'Cardio',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1cc,
+  title: 'Running',
+  duration: 20,
+  difficulty: 'moderate',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1cd,
+  title: 'Power Training',
+  duration: 60,
+  difficulty: 'hard',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c852dda63e62076458e1ce,
+  title: 'Swimming',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+}------------------------------------------------------1623741292395
+      {
+  _id: 60c85361123fba565485e53f,
+  title: 'Cardio',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c85361123fba565485e540,
+  title: 'Running',
+  duration: 20,
+  difficulty: 'moderate',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c85361123fba565485e541,
+  title: 'Power Training',
+  duration: 60,
+  difficulty: 'hard',
+  description: 'abcdefghijk',
+  __v: 0
+},{
+  _id: 60c85361123fba565485e542,
+  title: 'Swimming',
+  duration: 30,
+  difficulty: 'easy',
+  description: 'abcdefghijk',
+  __v: 0
+}
